@@ -2,7 +2,7 @@ name: BanNotification
 main: hide92795.bukkit.plugin.bannotification.BanNotification
 description: Notification on player was banned
 depend: [hide92795CoreLib]
-version: 1.6.2_1
+version: 1.6.2_2
 author: hide92795
 
 commands:
